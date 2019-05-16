@@ -1,6 +1,11 @@
 # my-awesome
 My Awesome
 
+## Technologies
+
+* [GraphQL](https://graphql.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+
 ## Services
 
 ### Managed authentication

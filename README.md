@@ -12,21 +12,26 @@ My Awesome
 
 * [Algolia](https://www.algolia.com/)
 
-### content infrastructure
+### Content infrastructure
 
 * [Contentful](https://www.contentful.com/)
 
-### managed API services
+### Managed API services
 
 * [AWS AppSync](https://aws.amazon.com/appsync/)
 * [Cloud Firestore](https://firebase.google.com/docs/firestore)
 
-### machine learning services
+### Machine learning services
 
 * [Amazon Lex](https://aws.amazon.com/lex/)
 * [Rekognition](https://aws.amazon.com/rekognition/)
 * [Textract](https://aws.amazon.com/textract/)
 
-### managed image & video hosting service
+### Managed image & video hosting service
 
 * [Cloudinary](https://cloudinary.com/)
+
+### Mobile
+
+* [AWS Amplify](https://aws.amazon.com/amplify/)
+* [Amplify Framework](https://aws-amplify.github.io/)

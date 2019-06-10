@@ -52,7 +52,7 @@
   * Caddy
   * MS IIS
 * Web Sockets
-* GraphQL
+* [GraphQL](#graphql)
 * Graph Databases
 * Miscellaneous
   * Profilling
@@ -80,3 +80,11 @@
 #### Object Document Mapper (ODM)
 
 * [Mongoose](https://mongoosejs.com/)
+
+## GraphQL
+
+* [GraphQL](https://graphql.org/)
+
+## Miscellaneous
+
+* [TypeScript](https://www.typescriptlang.org/)

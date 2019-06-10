@@ -1,17 +1,23 @@
-# Full-stack developer
+# Full-Stack
+
+## Table of Contents
+
+* [Stacks](#stacks)
+* [Questions](#questions)
 
 ## Stacks
 
-LAMP -> Linux, Apache, MySQL, and PHP. (Abstractly: server software, web server, database, back-end language.)
+### LAMP
 
-MEAN -> MongoDB, Express.js, Angular and Node.js.
+Linux, Apache, MySQL, and PHP. (Abstractly: server software, web server, database, back-end language.)
 
-STAR -> Design Systems, TypeScript, Apollo and React.
+### MEAN
 
-## Other
+MongoDB, Express.js, Angular and Node.js.
 
-* Nginx
-* PostgreSQL
+### STAR
+
+Design Systems, TypeScript, Apollo and React.
 
 ## Questions
 

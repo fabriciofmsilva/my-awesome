@@ -11,3 +11,8 @@
   * RethinkDB
   * Cassandra
   * Couchbase
+* [Miscellaneous](#miscellaneous)
+
+## Miscellaneous
+
+* replica set

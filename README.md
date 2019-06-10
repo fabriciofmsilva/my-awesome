@@ -20,6 +20,7 @@ A curated list of my awesomes resources.
 * [Media](docs/media.md)
 * [Security](docs/security.md)
 * [Testing](docs/testing.md)
+* [Text Editor](docs/text-editor.md)
 * [Miscellaneous](docs/miscellaneous.md)
 
 # Tech Radar

@@ -57,21 +57,14 @@
     * Nginx
     * Tomcat
     * Caddy
-* Infrastructure as a Code
-  * Containers
-    * Docker
-    * rkt
-    * LXC
+* [Infrastructure as a Code](#infrastructure-as-a-code)
+  * [Containers](#containers)
   * Configuration Management
     * Ansible
     * Chef
     * Salt
     * Puppet
-  * Container Orchestration
-    * Kubernetes
-    * Docker Swarm
-    * Mesos
-    * Nomad
+  * [Container Orchestration](#container-orchestration)
   * Infrastructure Provisioning
     * Terraform
     * Cloud Formation
@@ -81,7 +74,7 @@
   * TeamCity
   * Drone
   * CircleCI
-* Monitor Software and Infrastructure
+* [Monitor Software and Infrastructure](#monitor-software-and-infrastructure)
   * Infrastructure Monitoring
     * Nagios
     * Icinga
@@ -91,11 +84,7 @@
   * Application Monitoring
     * AppDynamics
     * New Relic
-  * Logs Management
-    * ELK Stack
-    * Graylog
-    * Splunk
-    * Papertrail
+  * [Logs Management](#logs-management)
 * Cloud Providers
   * AWS
   * Google Cloud
@@ -106,3 +95,30 @@
   * Four key metrics
   * Secret as a Service
 * Miscellaneous
+
+## Infrastructure as a Code
+
+### Containers
+
+* [Docker](https://www.docker.com/)
+* [Docker Compose](https://docs.docker.com/compose/)
+* rkt
+* LXC
+
+### Container Orchestration
+
+* [Kubernetes](https://kubernetes.io/)
+  * [kompose](https://github.com/kubernetes/kompose/)
+* Docker Swarm
+* Mesos
+* Nomad
+
+## Monitor Software and Infrastructure
+
+### Logs Management
+
+* ELK Stack
+* Graylog
+* Splunk
+* Papertrail
+* EFK Stack (Elasticsearch, Fluentd and Kibana)

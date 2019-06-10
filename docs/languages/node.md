@@ -5,7 +5,8 @@
 * Basics
 * Package Manager
   * npm
-* Standards and Best Practices
+* [Standards and Best Practices](#standards-and-best-practices)
+  * [Patterns](#patterns)
 * Security
   * OWASP Guideline
 * Testing (Unit / Integration)
@@ -15,7 +16,9 @@
   * Mockery
   * Ava
   * Jasmine
-* [Databases](../database.md)
+* Template Engine
+* [Databases](#databases)
+  * [MongoDB](#mongodb)
 * Frameworks
   * Express.js
   * Hapi.js
@@ -57,3 +60,23 @@
   * DDD
   * SOAP
   * Go Figure
+
+## Standards and Best Practices
+
+### Patterns
+
+* [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+
+## Frameworks
+
+### Express.js
+
+* [Express.js](https://expressjs.com/)
+
+## Databases
+
+### MongoDB
+
+#### Object Document Mapper (ODM)
+
+* [Mongoose](https://mongoosejs.com/)

@@ -13,9 +13,7 @@
   * Media Queries
   * [CSS Frameworks](#css-frameworks)
   * [CSS Architecture](#css-architecture)
-  * CSS Pre-processors
-    * SASS
-    * PostCSS
+  * [CSS Pre-processors](#css-pre-processors)
   * [CSS in JS](#css-in-js)
 * [JavaScript](#javascript)
   * Basics
@@ -65,7 +63,7 @@
   * Vue.js
   * Nuxt.js
 * Static Site Generators
-  * GatsbtJS
+  * GatsbyJS
 * Desktop Applications
   * Electron
   * Proton Native
@@ -97,9 +95,14 @@
 * OOCSS
 * SMACSS
 
+### CSS Pre-processors
+
+* SASS
+* PostCSS
+
 ### CSS Frameworks
 
-* Bootstrap
+* [Bootstrap](https://getbootstrap.com/)
 * Materialize CSS
 * Bulma
 * Semantic UI
@@ -111,15 +114,6 @@
 * Emotion
 * Radium
 * Glamorous
-
-
-
-
-
-
-
-
-
 
 ## JavaScript
 

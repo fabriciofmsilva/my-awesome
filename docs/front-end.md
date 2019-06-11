@@ -22,7 +22,7 @@
   * Modular JavaScript
   * Concepts
   * [libs](#libs)
-* Web Components
+* [Web Components](#web-components)
 * Frameworks
   * React.js
     * Redux
@@ -48,22 +48,15 @@
   * Karma
   * Jasmine
   * Protractor
+* [Performance](#performance)
 * [Progressive Web Apps](#progressive-web-apps-pwa)
   * [Web APIs](#web-apis)
   * [Calculing, Measuring and improving performance](#calculing-measuring-and-improving-performance)
 * Type Checkers
   * TypeScript
   * Flow
-* Server Side Rendering
-  * React.js
-    * Next.js
-    * After.js
-  * Angular
-    * Universal
-  * Vue.js
-  * Nuxt.js
-* Static Site Generators
-  * GatsbyJS
+* [Server Side Rendering](#server-side-rendering)
+* [Static Site Generators](#static-site-generators)
 * Desktop Applications
   * Electron
   * Proton Native
@@ -75,6 +68,7 @@
 * Tecniques
   * Micro frontends
 * Misc
+  * State Management
 
 ## HTML
 
@@ -126,6 +120,9 @@
 
 * [jQuery](https://jquery.com/)
 * [Moment](https://momentjs.com/)
+* [date-fns](https://date-fns.org/)
+* [Lodash](https://lodash.com/)
+* [Ramda](https://ramdajs.com/)
 
 ## Build Tools
 
@@ -135,7 +132,7 @@ Opinionated and automated code formatting
 
 * [Prettier](https://prettier.io/)
 * Standard
-* ESLint
+* [ESLint](https://eslint.org/)
 * JSHint
 * JSLint
 * JSCS
@@ -147,16 +144,35 @@ Opinionated and automated code formatting
 
 ### Module Bundlers
 
-* webpack
-* Parcel
-* Rollup
+* [webpack](https://webpack.js.org/)
+* [Parcel](https://parceljs.org/)
+* [Rollup](https://github.com/rollup/rollup)
+
+## Web Components
+
+* [Web Components](https://www.webcomponents.org/)
+
+## Performance
+
+* Angular, React, Vue specific optimizations
+* Code Splitting
+* Tree Shaking
+* Delivering only necessary Javascript code
+* Being more mindful of what NPM libraries you are using and minimizing library boat
+* Having a performance budget
+* Prioritizing assets better through use of CDNs and browser priority tools
+  * [CloudFlare](https://www.cloudflare.com/)
 
 ## Progressive Web Apps (PWA)
+
+HTTPS, App Shell and Service Workers for some extra offline features, security, and performance.
 
 - [PWA](https://developers.google.com/web/progressive-web-apps/)
 - [Launcher icon generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=clipart&foreground.clipart=android&foreground.space.trim=1&foreground.space.pad=0.25&foreColor=rgba(96%2C%20125%2C%20139%2C%200)&backColor=rgb(68%2C%20138%2C%20255)&crop=0&backgroundShape=square&effects=none&name=ic_launcher)
 - [The Web App Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
 - [pwacompat](https://github.com/GoogleChromeLabs/pwacompat)
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+* [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/)
 
 ### Web APIs
 
@@ -169,10 +185,32 @@ Opinionated and automated code formatting
 * Payments
 * Credentials
 
-## Calculing, Measuring and improving performance
+### Calculing, Measuring and improving performance
 
 * PRPL Patterns
 * RAIL Model
 * Performance Metrics
 * Using Lighthouse
 * Using DevTools
+
+## Server Side Rendering
+
+* React.js
+  * [Next.js](https://nextjs.org/)
+  * After.js
+* Angular
+  * [Angular Universal](https://angular.io/guide/universal)
+* Vue.js
+  * [Nuxt.js](https://nuxtjs.org/)
+
+## Static Site Generators
+
+* [GatsbyJS](https://www.gatsbyjs.org/)
+
+## Miscellaneous
+
+* TypeScript: Superset of JavaScript that compiles to JavaScript.
+* Flow: static type checker for JavaScript.
+* Reason: Typed language that leverages the JavaScript & OCaml ecosystems
+* PureScript: A strongly-typed language that compiles to Javascript, written in and inspired by Haskell
+* Elm: Purely function language that compiles to Javascript.

@@ -17,15 +17,20 @@
   * Ava
   * Jasmine
 * Template Engine
-* [Databases](#databases)
-  * [MongoDB](#mongodb)
 * Frameworks
   * Express.js
   * Hapi.js
+* [Databases](#databases)
+  * [MongoDB](#mongodb)
 * Caching
   * Memcached
-  * Redis
-* RESTFul API
+  * [Redis](Redis)
+* [RESTFul API](#restful-api)
+* Message Broker
+  * RabbitMQ
+  * Kafka
+* [GraphQL](#graphql)
+* [Search Engine](#search-engine)
 * Authentication / Authorization Methodologies
   * OAuth
   * Basic Authentication
@@ -38,13 +43,6 @@
     * Auth0
   * All-in-one solution
     * passport.js
-* Message Broker
-  * RabbitMQ
-  * Kafka
-* Search Engine
-  * ElasticSearch
-  * Solr
-  * Sphinx
 * Docker
 * Web Servers
   * Apache
@@ -52,8 +50,8 @@
   * Caddy
   * MS IIS
 * Web Sockets
-* [GraphQL](#graphql)
 * Graph Databases
+* [Serverless](#serverless)
 * Miscellaneous
   * Profilling
   * Static Analysis
@@ -66,6 +64,11 @@
 ### Patterns
 
 * [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+
+## Testing
+
+* [Jest](https://jestjs.io/)
+* [Mocha](https://mochajs.org/) + [Chai](https://www.chaijs.com/) + [Sinon](https://sinonjs.org/) + [Istanbul](https://istanbul.js.org/)
 
 ## Frameworks
 
@@ -81,9 +84,27 @@
 
 * [Mongoose](https://mongoosejs.com/)
 
+## Caching
+
+* [Redis](https://redis.io/)
+
+## RESTFul API
+
 ## GraphQL
 
 * [GraphQL](https://graphql.org/)
+
+## Search Engine
+
+* [Elasticsearch](https://www.elastic.co/)
+* [Algolia Search](https://www.algolia.com/)
+* Solr
+* Sphinx
+
+## Serverless
+
+* [Amazon API Gateway](https://aws.amazon.com/api-gateway/)
+* [AWS Lambda](https://aws.amazon.com/lambda/)
 
 ## Miscellaneous
 

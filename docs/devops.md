@@ -38,7 +38,7 @@
         * nmap, tcpdump, ping, mtr, traceroute, airmon, airodump, dig, iptables
       * Others
         * strace, dtrace, systemtap, uname, df, history
-* Networking and Security
+* [Networking and Security](#networking-and-security)
   * DNS
   * OSI Model
   * HTTP
@@ -96,6 +96,17 @@
   * Secret as a Service
 * Miscellaneous
 
+## Networking and Security
+
+### HTTPS
+
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+* [Caddy](https://caddyserver.com/)
+
+### HTTP2
+
+* [HTTP2](https://hpbn.co/http2/)
+
 ## Infrastructure as a Code
 
 ### Containers
@@ -122,3 +133,19 @@
 * Splunk
 * Papertrail
 * EFK Stack (Elasticsearch, Fluentd and Kibana)
+
+
+## Infrastructure as a Service
+
+* [Digital Ocean](https://www.digitalocean.com/) for simple servers.
+* [Heroku](https://www.heroku.com/) for simple and integrated server and deployments
+* [Now](https://zeit.co/now) for super simple deployments.
+* [Firebase](https://firebase.google.com/) for managed infrastructure and databases (especially for mobile apps)
+* [AWS](https://aws.amazon.com/) for pretty much anything you want so you never have to think about managing servers in your life (More on this in the “Other Trends” section)
+
+## Platform as a Service / Backend as a Service
+
+* [AppSync](https://aws.amazon.com/appsync/)
+* [Amplify](https://aws-amplify.github.io/)
+* [App Services](https://azure.microsoft.com/en-us/services/app-service/)
+* [App Engine](https://cloud.google.com/appengine/)

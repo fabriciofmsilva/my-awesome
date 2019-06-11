@@ -13,5 +13,7 @@
 * Licenses
 * Semantic Versioning
 * SSH
-* HTTP/HTTPS and APIs
+* HTTP/HTTPS/HTTP2 and APIs
 * Character Encodings
+
+System Design, Good architecture

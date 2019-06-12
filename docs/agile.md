@@ -61,6 +61,14 @@
 * Test Driven Development (TDD)
 * Technical Debt
 
+### Technical Debt
+
+Technical Debt Matrix -> ^ Value | > Ease
+
+Technical Debt Tree -> low hanging fruits metaphor
+
+Scouting Rule -> Leave your code better than you found it
+
 ## Product Development
 
 * A/B Testing
@@ -109,3 +117,7 @@
 ## Awesome
 
 * [Awesome Agile](https://github.com/lorabv/awesome-agile)
+
+## Misc
+
+The Bus Factor

@@ -109,3 +109,5 @@
 ## Miscellaneous
 
 * [TypeScript](https://www.typescriptlang.org/)
+
+[Datensparsamkeit](https://martinfowler.com/bliki/Datensparsamkeit.html)

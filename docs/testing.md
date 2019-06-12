@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Unit](#unit)
-* [End to End](#end-to-end)
+* [End-to-End](#end-to-end)
 * [Miscellneous](#miscellaneous)
 * Integration
 * Functional
@@ -28,3 +28,12 @@
 ## Miscellaneous
 
 Mocks, Spies, Stubs, and Snapshot Testing
+
+Test Pyramid, UI tests, customer facing tests
+
+* [Selenium](https://www.seleniumhq.org/)
+* [Jasmine](https://jasmine.github.io/)
+
+## Articles
+
+* [TestPyramid](https://martinfowler.com/bliki/TestPyramid.html)

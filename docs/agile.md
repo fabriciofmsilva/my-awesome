@@ -121,3 +121,7 @@ Scouting Rule -> Leave your code better than you found it
 ## Misc
 
 The Bus Factor
+
+## Extreme Programming (XP)
+
+Values: Communication, Simplicity, Feedback, Courage and Respect

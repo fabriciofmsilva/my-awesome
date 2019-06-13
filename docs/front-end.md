@@ -177,13 +177,28 @@ HTTPS, App Shell and Service Workers for some extra offline features, security, 
 ### Web APIs
 
 * Storage
+  * DOM Storage
+  * IndexedDB
+    * [idb](https://github.com/jakearchibald/idb)
 * Web Sockets
 * Service Workers
 * Location
 * Notifications
 * Device Orientation
-* Payments
-* Credentials
+* Web Payments
+* Credential Management API
+* Push API
+* WebRTC
+
+### Web Payments
+
+* Payment Request API
+* Payment Handler API
+* Payment Method Identifiers
+* Payment Method Manifest
+
+* [Web Payments Overview](https://developers.google.com/web/fundamentals/payments/)
+* [How the payment ecosystem works](https://developers.google.com/web/fundamentals/payments/basics/how-payment-ecosystem-works)
 
 ### Calculing, Measuring and improving performance
 
@@ -214,3 +229,5 @@ HTTPS, App Shell and Service Workers for some extra offline features, security, 
 * Reason: Typed language that leverages the JavaScript & OCaml ecosystems
 * PureScript: A strongly-typed language that compiles to Javascript, written in and inspired by Haskell
 * Elm: Purely function language that compiles to Javascript.
+
+`<link rel="preload">`, `<link rel="prefetch">`

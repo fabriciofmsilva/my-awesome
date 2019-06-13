@@ -21,7 +21,9 @@
   * Express.js
   * Hapi.js
 * [Databases](#databases)
-  * [MongoDB](#mongodb)
+  * [SQL](#sql)
+  * [NoSQL](#nosql)
+    * [MongoDB](#mongodb)
 * Caching
   * Memcached
   * [Redis](Redis)
@@ -75,12 +77,20 @@
 ### Express.js
 
 * [Express.js](https://expressjs.com/)
+  * body-parser
+  * cors
 
 ## Databases
 
-### MongoDB
+### SQL
 
-#### Object Document Mapper (ODM)
+* [Sequelize](http://docs.sequelizejs.com/)
+
+### NoSQL
+
+#### MongoDB
+
+##### Object Document Mapper (ODM)
 
 * [Mongoose](https://mongoosejs.com/)
 
@@ -109,5 +119,13 @@
 ## Miscellaneous
 
 * [TypeScript](https://www.typescriptlang.org/)
+
+eslint, standard
+
+supertest
+
+nyc
+
+cacheman, elasticsearch, helmet, ioredis, joi, knex, ldapjs, morgan, passport, passport-jw2,pm2, swagger
 
 [Datensparsamkeit](https://martinfowler.com/bliki/Datensparsamkeit.html)

@@ -149,3 +149,9 @@
 * [Amplify](https://aws-amplify.github.io/)
 * [App Services](https://azure.microsoft.com/en-us/services/app-service/)
 * [App Engine](https://cloud.google.com/appengine/)
+
+
+## Miscellaneous
+
+* [namecheap](https://www.namecheap.com/)
+* [Let's Encrypt](https://letsencrypt.org/)

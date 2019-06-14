@@ -202,7 +202,29 @@ HTTPS, App Shell and Service Workers for some extra offline features, security, 
 
 ### Calculing, Measuring and improving performance
 
-* PRPL Patterns
+#### PRPL Pattern
+
+* **Push** components for initial route
+* **Render** the initial route asap
+* **Pre-cache** components for remaining routes
+* **Lazy-load** & create next routes on-demand
+
+1. Custom elments
+  * Need to manage UI complexity, bring your own framework
+2. HTML Imports
+  * Need to load components, bring your own JavaScript loader, completity, prevents optimizations
+3. HTTP/2
+  * HTTP bad for granular resources, bundling, complex toolchains, inefficient bundles
+  * HTTP/2 * Server Push
+4. Service Worker
+  * Websites don't work without network, native apps?
+  * Intercept and handle requests
+  * Intelligently cache responses
+  * Server cache offline
+  * Background pre-caching
+
+[Sample](https://shop.polymer-project.org/)
+
 * RAIL Model
 * Performance Metrics
 * Using Lighthouse

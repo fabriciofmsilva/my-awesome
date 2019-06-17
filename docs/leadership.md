@@ -1,5 +1,19 @@
 # Leadership
 
+* [Soft Skills](#soft-skills)
+* [Miscellaneous](#miscellaneous)
+
+## Soft Skills
+
+* Composition and documentation
+* Problem-solving and critical thinking
+* Communication
+* Leadership
+* Research
+* Collaboration
+
+## Miscellaneous
+
 * Stepping up
   * A true leader can lead without the title or authority
 * Ownership

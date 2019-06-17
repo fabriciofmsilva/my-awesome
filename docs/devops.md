@@ -96,6 +96,20 @@
   * Secret as a Service
 * Miscellaneous
 
+
+## DevOps Culture
+
+* Increased collaboration
+* Team culture
+  * Shared responsibility
+    * Feedback
+    * Automation
+    * Build quality in
+* Organizational culture
+  * No silos
+  * Autonomous teams
+
+
 ## Networking and Security
 
 ### HTTPS
@@ -123,6 +137,25 @@
 * Docker Swarm
 * Mesos
 * Nomad
+
+
+## Continuous Integration
+
+* Maintain a Single Source Repository
+* Automate the Build
+* Make Your Build Self-Testing
+* Everyone Commits To the Mainline Every Day
+* Every Commit Should Build the Mainline on an Integration Machine
+* Fix Broken Builds Immediately
+* Keep the Build Fast
+  * Deployment pipeline (build pipeline / staged build)
+* Test in a Clone of the Production Environment
+* Make it Easy for Anyone to Get the Latest Executable
+* Everyone can see what's happening
+* Automate Deployment
+
+1. Get the build automated
+
 
 ## Monitor Software and Infrastructure
 

@@ -59,6 +59,8 @@ Write as few end-to-end tests as possible
 
 time budget -> in minutes, not hours.
 
+Another names -> BroadStackTest; full-stack test
+
 * [Selenium](https://www.seleniumhq.org/)
 * [Cypress](https://www.cypress.io/)
 * [Nightwatch](http://nightwatchjs.org/)

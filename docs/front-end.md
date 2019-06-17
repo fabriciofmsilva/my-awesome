@@ -90,9 +90,13 @@
 
 ### CSS Architecture
 
-* BEM
-* OOCSS
-* SMACSS
+* [BEM](http://getbem.com/introduction/)
+* [OOCSS](https://github.com/stubbornella/oocss/wiki)
+* [SMACSS](http://smacss.com/)
+* [SUIT CSS](http://suitcss.github.io/)
+* [ITCSS](https://itcss.io)
+* [ECSS](https://ecss.io/)
+* [ACSS](https://acss.io/)
 
 ### CSS Pre-processors
 

@@ -16,6 +16,29 @@
 * HTTP/HTTPS/HTTP2 and APIs
 * Character Encodings
 
+## Algorithms
+
+* Simple search
+* Binary search
+* Fast sorting algorithm
+  * Quicksort
+* Slow sorting algorithm
+  * Selection sort
+* Traveling salesperson
+
+### Big O
+
+* O(log n), also known as log time. Example: Binary search.
+* O(n), also known as linear time. Example: Simple search.
+* O(n * log n). Example: A fast sorting algorithm, like quicksort.
+* O(n2). Example: A slow sorting algorithm, like selection sort.
+* O(n!). Example: A really slow algorithm, like the traveling salesperson.
+
+![Big O](./assets/big-o.jpg)
+
+
+## Miscellaneous
+
 System Design, Good architecture
 
 Keep It Simple (KISS)

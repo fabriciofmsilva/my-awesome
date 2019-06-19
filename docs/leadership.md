@@ -12,6 +12,19 @@
 * Research
 * Collaboration
 
+
+## Questions
+
+1. How can I create an environment for people to do their best work?
+  * How you communicate priorities, the decisions you make, the gestures of care and support you show
+2. How can I create as much clarity and coherence about what needs to get done and why?
+  * The vision, the mission, the goals are crystal clear to you
+3. How can I personally model the behavior I want to be true across my team?
+4. How can I see things for what they are, instead of what I want them to be?
+
+Deeper learning comes from this inquiry  posing questions, instead of imposing answers. Finding your own answer is where the real answer is.
+
+
 ## Miscellaneous
 
 * Stepping up

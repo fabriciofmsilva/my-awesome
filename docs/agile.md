@@ -161,6 +161,32 @@ Scouting Rule -> Leave your code better than you found it
 
 The Bus Factor
 
+---
+
+Agility - What to do
+
+* Find out where you are
+* Take a smal step towards your goal
+* Adjust your understanding based on what you learned
+* Repeat
+
+Afility - How to do it
+
+* When faced with two of more alternatives that deliver roughly the same value, take the path makes future change easier
+
+A good design is easier to change than badly designed code
+
+* Determines correction to apply by looking at:
+  * the error
+  * the history
+  * the anticipated short term future
+
+> Don't let the turkeys get you down.
+
+Some people think they are importante. Don't let them tell you what to do.
+
+Stand up to fear-mongers, you already have the values - use them to create practices. Get feedback, refine, repeat...
+
 ## Extreme Programming (XP)
 
 Values: Communication, Simplicity, Feedback, Courage and Respect

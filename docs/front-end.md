@@ -257,3 +257,9 @@ HTTPS, App Shell and Service Workers for some extra offline features, security, 
 * Elm: Purely function language that compiles to Javascript.
 
 `<link rel="preload">`, `<link rel="prefetch">`
+
+---
+
+Design System
+
+pattern library + collection of reusable components

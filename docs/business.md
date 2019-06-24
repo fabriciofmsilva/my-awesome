@@ -77,3 +77,16 @@ Don’t just make projects, make products.
 2. jot down an outline
   * 3-5 bullet points about specific things
 3. celebrate every post
+
+---
+
+## How to be great? Just be good, repeatably
+
+> Perhaps “great’, is just “good”, but repeatable.
+
+* Greatness is not instantaneous
+* Greatness is earned
+
+It’s Hard to be Consistent
+
+> If you cannot do great things, do small things in a great way | Napolean Hill

@@ -186,3 +186,47 @@ The e-Commerce site final stack is the following:
   * Learn about Continuous Integration, Continuous Delivery and Continuous Deployment and how you can manage large projects to run smoothly.
   * Learn to set up tools like CircleCI or TravisCI on Github. 
   * Learn to work in teams
+
+---
+
+## Feature Toggles
+
+Feature Flags, Feature Bits, or Feature Flippers
+
+Toggle Router, varying from a simple in-memory store to a highly sophisticated distributed system with a fancy UI
+
+Toggle Points, Toggle Router, Toggle Configuration, Toggle Context
+
+Canary releasing, Key business metrics (user engagement, total revenue earned, etc) are monitored for both groups
+
+A/B testing
+
+Categories of toggles
+
+* Release Toggles
+* Experiment Toggles
+* Ops Toggles
+* Permissioning Toggles (Champagne Brunch)
+
+Managing different categories of toggles
+
+* static vs dynamic toggles
+* Long-lived toggles vs transient toggles
+
+Implementation Techniques
+
+* De-coupling decision points from decision logic
+* Inversion of Decision
+* Avoiding conditionals
+
+Toggle Configuration
+
+* Dynamic routing vs dynamic configuration
+* Prefer static configuration
+* Approaches for managing toggle configuration
+* Hardcoded Toggle Configuration
+* Parameterized Toggle Configuration
+* Toggle Configuration File
+* Toggle Configuration in App DB
+* Distributed Toggle Configuration
+* Overriding configuration

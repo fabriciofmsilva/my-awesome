@@ -44,3 +44,13 @@ Deeper learning comes from this inquiry  posing questions, instead of imposing a
 * Conflict and crises
   * The team and other managers want to see a calm person who has everything under control, even in the most stressful situations
 * Vision
+
+---
+
+Stoicism
+
+Keys -> Negative visualization, detachment, and deliberate comfort-zone 
+
+Danish mentality -> It could always be worse
+
+Trying harder to be someone else

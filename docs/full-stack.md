@@ -230,3 +230,15 @@ Toggle Configuration
 * Toggle Configuration in App DB
 * Distributed Toggle Configuration
 * Overriding configuration
+
+---
+
+AWS Services
+
+* Amazon API Geteway
+* AWS Lambda
+* Amazon DynamoDB
+* AWS IoT 1-Click
+* AWS System Manager
+* AWS Amplify
+* AWS Serveless Application Model

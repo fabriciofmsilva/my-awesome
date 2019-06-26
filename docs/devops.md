@@ -188,3 +188,57 @@
 
 * [namecheap](https://www.namecheap.com/)
 * [Let's Encrypt](https://letsencrypt.org/)
+
+---
+
+* Continuous Integration
+  * Ensure everyone's changes integrate
+  * Catch bugs
+  * Reduce merge conflicts
+* Continuous Delivery
+  * Develop to release at any time
+* Continuous Deployment
+  * Deploy new features immetiately
+* Webhooks
+  * Send messages to external systems about activity in your projects
+* Workflow strategies
+  * No universal solution
+  * Tools, process, and people
+  * Flexibility is key
+  * Branching
+    * The github flow
+      * Pull request
+  * Complex workflows
+    * Git Flow
+      * Long lived branches
+      * Simultaneous development
+      * New features & current releases
+      * Develop -> Feature -> Develop -> Release -> Master (tag v1.2)
+      * Master -> Hotfix -> Master (tag v1.2.1)
+* Managing Projects
+  * Tools, Process, and People
+  * Planning work
+  * Removing obstacles
+  * Ensuring effective communication
+  * GitHub
+    * Issues
+    * Pull request
+    * Milestone
+    * Managing Information
+    * Projects
+* Quality Control
+  * Pre-receive Hooks (enterprise only)
+    * Business rules
+    * Regulartory compliance
+    * Prevent mistakes
+  * Statuses (Code Review)
+  * Protected Branches
+* Getting insight into work
+  * Pulse
+  * Branch data
+  * Graphs
+* Find what you need
+  * File name
+  * History
+  * Projects
+  
